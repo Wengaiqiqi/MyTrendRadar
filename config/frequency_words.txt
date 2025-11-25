@@ -7,22 +7,12 @@ DJI
 
 宇树
 
-三体
-流浪地球
-刘慈欣
-
 字节
 bytedance
-张一鸣
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -36,17 +26,8 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
-
-自动驾驶
-
-机器人
 
 国产
 中国
@@ -55,14 +36,3 @@ ai
 
 芯片
 光刻机
-
-科技
-
-核能
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
