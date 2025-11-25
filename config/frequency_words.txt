@@ -1,6 +1,7 @@
 人工智能
 
-电商
+ai
+!gai
 
 大疆
 DJI
@@ -25,14 +26,6 @@ sora
 
 claude
 Anthropic
-
-ai
-!gai
-
-国产
-中国
-
-美国
 
 芯片
 光刻机
